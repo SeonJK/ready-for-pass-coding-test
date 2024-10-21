@@ -1,8 +1,7 @@
-package chapter05;
+package chapter05_array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class chapter05_04 {

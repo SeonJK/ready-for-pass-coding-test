@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06_stack;
 
 import java.util.ArrayList;
 import java.util.List;

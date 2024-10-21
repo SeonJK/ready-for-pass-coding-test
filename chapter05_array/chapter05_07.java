@@ -1,4 +1,4 @@
-package chapter05;
+package chapter05_array;
 
 import java.util.ArrayList;
 import java.util.HashMap;
